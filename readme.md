@@ -23,8 +23,8 @@ This is a boilerplate application built with Express.js, TypeScript, and Prisma 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone git@github.com:sucvijay/express-typescript-prisma-boilerplate.git
+cd express-typescript-prisma-boilerplate/
 ```
 
 2. Install dependencies:
